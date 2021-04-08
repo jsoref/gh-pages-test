@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 logo: https://avatars.githubusercontent.com/u/61040283?s=200&v=4
+name: check-spelling action
+description: My description
+url: "https://jsoref.github.io/gh-pages-test/"
+markdown: GFM
+highlighter: rouge
